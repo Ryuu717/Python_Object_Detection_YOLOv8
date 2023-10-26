@@ -1,0 +1,11 @@
+names:
+- Helmet
+nc: 1
+roboflow:
+  license: Public Domain
+  project: helmet-mvi3d
+  url: https://universe.roboflow.com/celebal/helmet-mvi3d/dataset/2
+  version: 2
+  workspace: celebal
+val: /content/ultralytics/ultralytics/yolo/v8/segment/Helmet-2/val/images
+train: /content/ultralytics/ultralytics/yolo/v8/segment/Helmet-2/train/images
